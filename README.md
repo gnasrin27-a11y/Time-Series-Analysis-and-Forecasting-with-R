@@ -1,5 +1,7 @@
 # Time Series Analysis and Forecasting with R
 
+**Module:** Data Modelling
+
 ## Project Overview
 
 This repository contains an **individual coursework project** on time-series analysis and forecasting using **R**. The project applies time-series decomposition and ARIMA modelling to analyse patterns, assess model performance, and generate forecasts.

@@ -1,4 +1,4 @@
-# Time Series Analysis and Forecasting
+# Time Series Analysis and Forecasting with R
 
 ## Project Overview
 
@@ -47,7 +47,7 @@ The analysis follows a structured time-series modelling process:
 
 The R code used for the analysis is included separately in the repository as:
 
-`time series assignment.R`
+`ARIMA Time Series Forecasting.R`
 
 The script contains the R code used for the time-series analysis, ARIMA modelling, diagnostic tests, and forecasting.
 
@@ -56,18 +56,18 @@ The script contains the R code used for the time-series analysis, ARIMA modellin
 ```text
 time-series-analysis/
 │
-├── Time Series Assignment.pdf
-├── time series assignment.R
+├── Data_Modelling_Time series_Assignment.pdf
+├── ARIMA Time Series Forecasting.R
 └── README.md
 ```
 
 ### Files
 
-**`Time Series Assignment.pdf`**
+**`Data_Modelling_Time series_Assignment.pdf`**
 Contains the completed coursework report, including the analysis, calculations, model outputs, diagnostic tests, forecasts, interpretations, and conclusions.
 
-**`time series assignment.R`**
-Contains the R code used to carry out the statistical analysis, modelling, diagnostics, and forecasting.
+**`ARIMA Time Series Forecasting.R`**
+Contains the R code used to carry out the statistical analysis, ARIMA modelling, diagnostics, and forecasting.
 
 ## Tools and Techniques
 
